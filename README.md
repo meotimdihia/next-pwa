@@ -8,6 +8,7 @@ This plugin is powered by [workbox](https://developers.google.com/web/tools/work
 
 **Features**
 
+
 - 0️⃣ Zero config for registering and generating service worker
 - ✨ Optimized precache and runtime cache
 - 💯 Maximize lighthouse score
